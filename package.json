@@ -2,7 +2,7 @@
   "name": "shiva-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/SK8100.github.io/shiva-portfolio",
+  "homepage": "https://SK8100.github.io",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
